@@ -1,0 +1,4 @@
+url: "https://www.consob.it/documents/11973/395154/PncPubbl.xlsx"
+destfile: "input/raw_data"
+news_endpoint: "https://www.alphavantage.co/query?function=NEWS_SENTIMENT&tickers=AAPL&apikey=demo"
+llm_inference_endpoint: "https://api-inference.huggingface.co/models/EleutherAI/gpt-neox-20b"

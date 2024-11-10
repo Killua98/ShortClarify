@@ -1,0 +1,5 @@
+PyYAML==6.0
+requests==2.31.0
+pandas==1.5.3
+sentence-transformers==2.2.2
+qdrant-client==1.1.4
